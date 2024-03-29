@@ -1,0 +1,28 @@
+{
+  "name": "howmuchterroristareyou",
+  "version": "1.0.0",
+  "description": "Entertaining telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimka/howmuchterroristareyou.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "vladimka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladimka/howmuchterroristareyou/issues"
+  },
+  "homepage": "https://github.com/vladimka/howmuchterroristareyou#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
